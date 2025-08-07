@@ -10,7 +10,7 @@ Deep research has broken out as one of the most popular agent applications. This
 
 ### 🔥 Recent Updates
 
-**January 7, 2025**: Added support for Zhipu GLM-4.5 series models (GLM-4.5 and GLM-4.5-Air) with enhanced error handling for structured outputs.
+**August 7, 2025**: Added support for Zhipu GLM-4.5 series models (GLM-4.5 and GLM-4.5-Air) with enhanced error handling for structured outputs.
 
 ### 🚀 Quickstart
 
