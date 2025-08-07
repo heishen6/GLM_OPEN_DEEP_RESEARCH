@@ -10,7 +10,6 @@ All notable changes to GLM_OPEN_DEEP_RESEARCH will be documented in this file.
 - 🔧 Custom base URL configuration for API endpoints
 - 🛡️ Error handling for structured output compatibility issues
 - 📝 Comprehensive documentation in Chinese and English
-- 🧪 Test script for GLM model verification (`test_glm.py`)
 - 🔑 Environment variable support for Zhipu API keys
 
 ### Changed
